@@ -1,0 +1,26 @@
+The Article Title
+=================
+Author's Name <authors@email.address>
+v1.0, 2003-12
+
+This is the Useful for
+writing simple of a preamble.
+
+NOTE: The abstract,  and
+index ('specialsections').
+
+
+:numbered!:
+[abstract]
+Example Abstract
+----------------
+The (one or more paragraphs) goes here.
+
+:numbered:
+
+The First Section
+-----------------
+Article sections to four levels
+deep.
+footnote:[An example footnote.]
+indexterm:[Example index entry]
